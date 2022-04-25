@@ -44,5 +44,5 @@
     # rsync --partial -avzh --progress --stats XXXXXX@<ip>:/home/<your directory>/*.txt .
     
   # Plot the data
-    # Copy data from csv files with negative and postive accourdingly to excel file Ψpeaks.elsx
-    # Copy data from depth files with negative and postive accourdingly to excel file Ψdepth.elsx
+    # Copy data from csv files with negative and postive accourdingly to excel file Ψpeaks.xlsx
+    # Copy data from depth files with negative and postive accourdingly to excel file Ψdepth.xlsx
